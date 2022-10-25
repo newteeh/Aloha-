@@ -1,0 +1,26 @@
+.creatingWebsitesSec{
+    padding: 212px 0 0 0 ;
+}
+.creatingWebsitesSec__body{
+
+}
+.creatingWebsitesSec__title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    color: #4B321D;
+    padding: 0 0 136px 0;
+}
+.creatingWebsitesSec__imgBox{
+    
+}
+.creatingWebsitesSec__imgBox img{
+    max-width: 100%;
+}
+@media (max-width: 536px){
+    .creatingWebsitesSec__title{
+        font-size: 60px;
+        line-height: 80px;
+    }
+}

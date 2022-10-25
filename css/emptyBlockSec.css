@@ -1,0 +1,30 @@
+.emptyBlockSec{
+    background: #4B321D;
+    border-radius: 16px;  
+    
+}
+
+.emptyBlockSec__body{
+    padding: 84px 0 110px 0 ;
+}
+.emptyBlockSec__title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    color: #F1F1EB;
+    padding: 0 0 45px 0;
+}
+.emptyBlockSec__subtitle{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    color: #F1F1EB;
+}
+@media (max-width: 619px){
+    .emptyBlockSec__title{
+        font-size: 60px;
+        line-height: 80px;
+    }
+}

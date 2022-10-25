@@ -1,0 +1,28 @@
+.followMeSec{
+    padding: 90px 0 90px 0;
+}
+.followMeSec__body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.followMeSec__leftPart__title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    color: #4B321D;
+    padding: 0 0 45px 0;
+}
+.followMeSec__rightPart img{
+    max-width: 100%;
+}
+@media (max-width: 619px){
+    .followMeSec__body{
+        display: flex;
+        flex-direction: column-reverse
+    }
+    .followMeSec__leftPart__title{
+        padding: 15px 0;
+    }
+}
