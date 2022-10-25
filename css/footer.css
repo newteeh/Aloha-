@@ -1,0 +1,14 @@
+.footer{
+
+}
+.footer__body{
+    padding: 99px 0 100px 0 ;
+}
+.leftPart__body{
+    display: flex;
+    flex-direction: column;
+    
+}
+.leftPart__textBox{
+    padding: 0 0 83px 0;
+}

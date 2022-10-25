@@ -1,0 +1,17 @@
+.letsTalkSec{
+    padding: 90px 0 90px 0;
+}
+.letsTalkSec__title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    color: #4B321D;
+    padding: 0 0 56px 0;
+}
+@media (max-width: 619px){
+    .letsTalkSec__title{
+        font-size: 60px;
+        line-height: 80px;
+    }
+}
