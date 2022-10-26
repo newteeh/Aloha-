@@ -18,7 +18,7 @@
 .creatingWebsitesSec__imgBox img{
     max-width: 100%;
 }
-@media (max-width: 536px){
+@media (max-width: 619px){
     .creatingWebsitesSec__title{
         font-size: 60px;
         line-height: 80px;

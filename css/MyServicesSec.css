@@ -26,7 +26,7 @@
 .mainButton button:hover{
     box-shadow: 0px 0px 20px 5px rgba(34, 60, 80, 0.14) inset;
 }
-@media (max-width: 536px){
+@media (max-width: 619px){
     .MyServicesSec__title{
         font-size: 60px;
         line-height: 80px;

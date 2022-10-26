@@ -3,6 +3,8 @@
 }
 .footer__body{
     padding: 99px 0 100px 0 ;
+    display: flex;
+    justify-content: space-between;
 }
 .leftPart__body{
     display: flex;
@@ -11,4 +13,29 @@
 }
 .leftPart__textBox{
     padding: 0 0 83px 0;
+}
+.rightPart__body{
+    display: flex;
+}
+.rightPart__LeftListBox{
+}
+.rightPart__MidListBox{
+    padding: 0 0 0 178px;
+}
+.rightPart__RightListBox{
+    padding: 0 0 0 178px;
+
+}
+.footer__link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #4B321D;
+}
+@media(max-width:619px){
+    .footer__body{
+        flex-direction: column;
+    }
+    
 }
